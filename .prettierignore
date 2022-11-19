@@ -1,0 +1,7 @@
+build/
+dist/
+node_modules/
+.history/
+.snapshots/
+*.min.js
+reports/

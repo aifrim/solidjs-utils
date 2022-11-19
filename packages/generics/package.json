@@ -1,0 +1,16 @@
+{
+  "name": "@solidjs-utils/generics",
+  "version": "0.0.1-alpha.0",
+  "description": "SolidJS Utility to easely create Reactive Objects from multiple signals",
+  "main": "dist/index.js",
+  "repository": "https://github.com/aifrim/solidjs-utils",
+  "author": "aifrim",
+  "license": "MIT",
+  "private": false,
+  "peerDependencies": {
+    "solid-js": "^1.6.2"
+  },
+  "devDependencies": {
+    "solid-js": "^1.6.2"
+  }
+}
